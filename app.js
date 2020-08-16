@@ -15,7 +15,7 @@ app.get("/", function (req, res) {  //Sending the signup.html file to the browse
 
 mailchimp.setConfig({   //Setting up MailChimp
 
-    apiKey: "afc24d113feab9d2626b516bc1ea5c140-us17",
+    apiKey: "fc24d113feab9d2626b516bc1ea5c140-us17",
     server: "us17"
 });
 
